@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante de desenvolvimento de sistemas.
+🔭Estudante de desenvolvimento de sistemas.
 
 
 ## 🌐 Socials:
