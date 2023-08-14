@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Estou trabalhando atualmente com <br>👯‍♂️Estou procurando colaborar com<br>🤝Estou procurando ajudar com<br>
+Estudante de desenvolvimento de sistemas.
 
 
 ## 🌐 Socials:
