@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/fabio-nascimento-031a2549/ <br>
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/fabio-nascimento-031a2549 <br>
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white) https://www.instagram.com/fabio.fbn1 <br> ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white) https://www.facebook.com/Fabio.fbn 
 
 # 💻 Tech Stack:
